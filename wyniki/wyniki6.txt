@@ -1,0 +1,6 @@
+6.1
+Polska 11
+Stany Zjednoczone 8
+Francja 7
+Niemcy 6
+Rosja 6

@@ -1,0 +1,1 @@
+SELECT kraj, COUNT(*) AS "Liczba Osob" FROM gracze WHERE data_dolaczenia LIKE "2018%" GROUP BY kraj ORDER BY COUNT(*) DESC LIMIT 5;
