@@ -1,4 +1,4 @@
-f = open("DANE_2105/instrukcje.txt", "r")
+f = open("../DANE_2105/instrukcje.txt", "r")
 output = ""
 for line in f:
     if line.startswith("DOPISZ "):
